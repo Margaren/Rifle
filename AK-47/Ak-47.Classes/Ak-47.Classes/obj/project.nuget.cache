@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "X1CDBNH/K/KvlGYUTpPG5YzieLr7cqLu0X6PrMMc8JjCJB8AWLTXFhX4X7LuryAlgnhq3tZ5Cs89HXbY95+XqQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\study\\Desktop\\AK-47\\AK-47\\Ak-47.Classes\\Ak-47.Classes\\AK47Classes.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\study\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\study\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30503.244
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AK-47.Tests", "AK-47.Tests\AK-47.Tests.csproj", "{685C7800-7294-4247-B147-A88754D8BBE8}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AK47Classes", "..\Ak-47.Classes\Ak-47.Classes\AK47Classes.csproj", "{48316AAD-7661-4481-8C84-166AC06B1977}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{685C7800-7294-4247-B147-A88754D8BBE8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{685C7800-7294-4247-B147-A88754D8BBE8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{685C7800-7294-4247-B147-A88754D8BBE8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{685C7800-7294-4247-B147-A88754D8BBE8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{48316AAD-7661-4481-8C84-166AC06B1977}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{48316AAD-7661-4481-8C84-166AC06B1977}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{48316AAD-7661-4481-8C84-166AC06B1977}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{48316AAD-7661-4481-8C84-166AC06B1977}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8B0DC156-0AAF-4F04-8E70-42E358EF01F5}
+	EndGlobalSection
+EndGlobal

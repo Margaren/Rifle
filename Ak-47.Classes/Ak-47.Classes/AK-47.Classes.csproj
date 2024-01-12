@@ -1,0 +1,20 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+    <RootNamespace>Ak_47.Classes</RootNamespace>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Remove="BoltCarrier.cs" />
+    <Compile Remove="Chamber.cs" />
+    <Compile Remove="Fuse.cs" />
+    <Compile Remove="Gas.cs" />
+    <Compile Remove="GasPiston.cs" />
+    <Compile Remove="MagazineSpring.cs" />
+    <Compile Remove="Recharger.cs" />
+    <Compile Remove="Shooter.cs" />
+    <Compile Remove="Trigger.cs" />
+  </ItemGroup>
+
+</Project>
